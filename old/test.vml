@@ -1,0 +1,68 @@
+[pause:2]
+
+[voice:Alex]
+[rate:180]
+[voice_volume:1.0]
+[bgm_volume:1.2]
+
+[sfx_volume:0.9]
+
+[bgm:audio/forest_ambience.mp3]
+Once upon a time, deep in the ancient woods, there lived a wanderer named Elen.
+
+[sfx:audio/leaves_rustle.mp3]
+
+[pause:1]
+
+[voice:Samantha]
+[rate:160]
+
+Elen walked alone, listening to the wind dance through the leaves.
+
+[pause:1]
+
+Suddenly, a low growl echoed from the shadows.
+
+[sfx:audio/wolf_growl.mp3]
+[pause:1]
+
+[bgm:audio/mystic_theme.mp3]
+[bgm_volume:0.8]
+
+
+[voice:Fred]
+[rate:150]
+Then stepped forth the guardian wolf of the forest, its eyes glowing with quiet power.
+
+[voice:Samantha]
+[rate:170]
+
+[sfx:audio/cloth_rustle.mp3]
+But Elen was not afraid. She reached into her cloak...
+
+[pause:0.5]
+
+...and revealed the ancient flute of peace.
+
+[sfx:audio/flute_note.mp3]
+[pause:1]
+
+
+[bgm_volume:0.4]
+[bgm:audio/hero_theme.mp3]
+
+[voice:Fred]
+[rate:140]
+The wolf bowed. A pact was made.
+
+[voice:Alex]
+[rate:190]
+From that day forward, Elen and the wolf traveled together, protectors of the wild.
+
+[pause:2]
+
+[sfx:audio/wind_chimes.mp3]
+
+And so the legend began.
+
+[pause:10]
