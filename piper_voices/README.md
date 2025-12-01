@@ -2,6 +2,7 @@
 mkdir piper_voices
 
 # Download only the en_US voices (excludes other languages to save space)
+This is what I did, adjust for your choice of language.
 
 ```bash
 huggingface-cli download rhasspy/piper-voices --include "en/en_US/*" --local-dir piper_voices
