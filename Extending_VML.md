@@ -1,6 +1,6 @@
 # How To Add New VML Expansion Tags
 
-**Extend the VoiceMaster Engine with your own commands**
+**Extend the Voice Markup Language with your own commands**
 
 VML is intentionally simple:
 **each tag is just a function call embedded in angled brackets** inside the script text.
