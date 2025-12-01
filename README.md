@@ -1,6 +1,3 @@
-Here is a professional, high-impact `README.md` designed to "sell" your project as a powerful, offline alternative to paid APIs. It covers the installation, the crucial voice data setup, and usage.
-
-***
 
 # 🎙️ Open VML Audio Engine
 ### 100% Offline, Free, & Private AI Text-to-Speech Renderer
