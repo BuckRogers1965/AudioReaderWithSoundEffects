@@ -1,6 +1,6 @@
 [pause:2]
 
-[voice:Alex]
+[voice:John]
 [rate:180]
 [voice_volume:1.0]
 [bgm_volume:1.2]
@@ -14,7 +14,7 @@ Once upon a time, deep in the ancient woods, there lived a wanderer named Elen.
 
 [pause:1]
 
-[voice:Samantha]
+[voice:Amy]
 [rate:160]
 
 Elen walked alone, listening to the wind dance through the leaves.
@@ -30,11 +30,11 @@ Suddenly, a low growl echoed from the shadows.
 [bgm_volume:0.8]
 
 
-[voice:Fred]
+[voice:Joe]
 [rate:150]
 Then stepped forth the guardian wolf of the forest, its eyes glowing with quiet power.
 
-[voice:Samantha]
+[voice:Amy]
 [rate:170]
 
 [sfx:audio/cloth_rustle.mp3]
@@ -51,11 +51,11 @@ But Elen was not afraid. She reached into her cloak...
 [bgm_volume:0.4]
 [bgm:audio/hero_theme.mp3]
 
-[voice:Fred]
+[voice:Joe]
 [rate:140]
 The wolf bowed. A pact was made.
 
-[voice:Alex]
+[voice:John]
 [rate:190]
 From that day forward, Elen and the wolf traveled together, protectors of the wild.
 

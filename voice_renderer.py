@@ -24,13 +24,28 @@ from math import log10
 # ---------------------------------------------------------------------
 
 # Map VML [voice:Name] to Piper model files
+
 PIPER_MODELS = {
-    "Alex":      "voices/en_US-alex.onnx",
-    "Samantha":  "voices/en_US-samantha.onnx",
-    "Narrator":  "voices/en_GB-narrator.onnx",
-    "Hero":      "voices/en_US-hero.onnx",
-    "Villain":   "voices/en_US-villain.onnx",
+    "Amy": "piper_voices/en_US-amy-medium.onnx",
+    "Arctic": "piper_voices/en_US-arctic-medium.onnx",
+    "Bryce": "piper_voices/en_US-bryce-medium.onnx",
+    "Cori": "piper_voices/en_GB-cori-high.onnx",
+    "HFC_Female": "piper_voices/en_US-hfc_female-medium.onnx",
+    "HFC_Male": "piper_voices/en_US-hfc_male-medium.onnx",
+    "Joe": "piper_voices/en_US-joe-medium.onnx",
+    "John": "piper_voices/en_US-john-medium.onnx",
+    "Kathleen": "piper_voices/en_US-kathleen-low.onnx",
+    "Kristin": "piper_voices/en_US-kristin-medium.onnx",
+    "Lessac": "piper_voices/en_US-lessac-medium.onnx",
+    "LibriTTS": "piper_voices/en_US-libritts-high.onnx",
+    "LJSpeech": "piper_voices/en_US-ljspeech-medium.onnx",
+    "Reza": "piper_voices/en_US-reza_ibrahim-medium.onnx",
+    "Ryan": "piper_voices/en_US-ryan-medium.onnx",
+    "Sam": "piper_voices/en_US-sam-medium.onnx",
+    "Siwis": "piper_voices/fr_FR-siwis-medium.onnx",
+    "Paola": "piper_voices/it_IT-paola-medium.onnx"
 }
+
 
 # ---------------------------------------------------------------------
 # UTILITIES
