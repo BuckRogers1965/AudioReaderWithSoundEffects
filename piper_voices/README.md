@@ -2,8 +2,10 @@
 mkdir piper_voices
 
 # Download only the en_US voices (excludes other languages to save space)
-huggingface-cli download rhasspy/piper-voices --include "en/en_US/*" --local-dir piper_voices
 
+```bash
+huggingface-cli download rhasspy/piper-voices --include "en/en_US/*" --local-dir piper_voices
+```
 
 # Option B: The Manual Way
 - Go to the Piper Voices Hugging Face Page.
