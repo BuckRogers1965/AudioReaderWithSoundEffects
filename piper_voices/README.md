@@ -14,10 +14,10 @@ huggingface-cli download rhasspy/piper-voices --include "en/en_US/*" --local-dir
 # Configuring the Script
 Open voice_renderer.py and update the PIPER_MODELS dictionary to point to your files:
 
-'''Python
+```Python
 PIPER_MODELS = {
     "John": "piper_voices/en_US-john-medium.onnx",
     "Amy": "piper_voices/en_US-amy-medium.onnx",
     # ensure the .onnx.json file exists in the same folder!
 }
-'''
+```
