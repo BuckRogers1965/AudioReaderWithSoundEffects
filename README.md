@@ -66,7 +66,7 @@ huggingface-cli download rhasspy/piper-voices --include "en/en_US/*" --local-dir
 4.  Place them in your `piper_voices/` directory.
 
 ### 📝 Configuring the Script
-Open `voice_renderer_os.py` and update the `PIPER_MODELS` dictionary to point to your files:
+Open `voice_renderer.py` and update the `PIPER_MODELS` dictionary to point to your files:
 
 ```python
 PIPER_MODELS = {
@@ -105,7 +105,7 @@ We have to move. Now.
 Run the python script pointing to your text file and desired output file.
 
 ```bash
-python voice_renderer_os.py story.txt output.mp3
+python voice_renderer.py story.txt output.mp3
 ```
 
 ---
@@ -118,7 +118,7 @@ python voice_renderer_os.py story.txt output.mp3
 
 **Error: `No Piper model configured...`**
 *   **Cause:** The voice name in your text file (e.g., `[voice:Chad]`) isn't in your `PIPER_MODELS` dictionary, or the path is wrong.
-*   **Fix:** Edit `voice_renderer_os.py` and ensure the path points to the actual `.onnx` file.
+*   **Fix:** Edit `voice_renderer.py` and ensure the path points to the actual `.onnx` file.
 
 **Audio sounds incredibly fast or slow**
 *   **Fix:** Piper models are trained at different native speeds. Adjust the `[rate:150]` tag. 150 is standard, 180 is brisk, 120 is slow.
