@@ -22,3 +22,18 @@ You are free to use any source you prefer. Here are a few reliable starting poin
 Be sure to follow the license terms for any audio you download.
 
 Place your chosen files directly in this directory or in subfolders as needed.
+
+This project does **not** include any audio and does **not** point to specific copyrighted sources.
+
+To assemble your own library, search for:
+
+- “public domain sound effects”
+- “royalty-free background music”
+- “CC0 ambience loops”
+- “open licensed audio packs”
+- “free orchestral stems”
+- “free atmospheric textures”
+
+There are many creators and archives offering permissive licenses.  
+Always review licensing terms to confirm that the audio you download may be used in your project.
+
